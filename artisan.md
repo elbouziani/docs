@@ -1,9 +1,9 @@
 # Artisan Console
 
-- [Introduction](#introduction)
-- [Writing Commands](#writing-commands)
-    - [Generating Commands](#generating-commands)
-    - [Command Structure](#command-structure)
+- [مقدمة](#introduction)
+- [كتابة الأوامر](#writing-commands)
+    - [توليد الأوامر](#generating-commands)
+    - [بنية الأمر](#command-structure)
     - [Closure Commands](#closure-commands)
 - [Defining Input Expectations](#defining-input-expectations)
     - [Arguments](#arguments)
